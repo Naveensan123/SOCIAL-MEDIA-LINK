@@ -3,6 +3,15 @@
 # LINK PAGE
 ![Screenshot 2024-02-19 000629](https://github.com/Naveensan123/SOCIAL-MEDIA-PLATFORM-LINK/assets/95761973/8b56a188-768e-494b-bd7d-eea2d42a0859)
 
+# SAMPLE OUTPUT LINKS
+![Screenshot 2024-02-23 093850](https://github.com/Naveensan123/SOCIAL-MEDIA-PLATFORM-LINK/assets/95761973/b41dd460-561e-42d5-98a5-079012e97766)
+![Screenshot 2024-02-23 093902](https://github.com/Naveensan123/SOCIAL-MEDIA-PLATFORM-LINK/assets/95761973/0591ea73-1ebe-4e1e-8ce5-5c43ae1e379f)
+![Screenshot 2024-02-23 093916](https://github.com/Naveensan123/SOCIAL-MEDIA-PLATFORM-LINK/assets/95761973/d783c637-6e76-4036-82f0-51575affa279)
+
+
+
+
+
 # ABOUT DETAILS
 ![Screenshot 2024-02-19 000706](https://github.com/Naveensan123/SOCIAL-MEDIA-PLATFORM-LINK/assets/95761973/32fd2952-141c-4f89-be72-54bba4d3cac5)
 
